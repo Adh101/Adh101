@@ -2,7 +2,7 @@
 I am a resourceful graduate, passionate about advancing knowledge in Computer Science specializing in Data Science and ML through high-quality research. I want to explore the problems, solving them by applying machine learning algorithms and learning a lot in the process. Extracting valuable insights from large datasets excites me a lot. 
 
 Skills:  Python / SQL / ML / Statistics
-- 🔭 I’m currently working as a **Data Analyst** at Ingrails.
+- 🔭 I’m currently doing my **MS in Computer Science - AI** at **The University of South Dakota**.
 - 🌱 I’m currently learning **Natural Language Processing with Python** 
 - 👯 I’m looking to collaborate on **Data Science, ML and NLP.** 
 
