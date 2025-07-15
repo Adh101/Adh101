@@ -3,7 +3,7 @@ I am a resourceful graduate, passionate about advancing knowledge in Computer Sc
 
 Skills:  Python / SQL / ML / Statistics
 - 🔭 I’m currently doing my **MS in Computer Science - AI** at **The University of South Dakota**.
-- 👯 I’m looking to collaborate on **Data Science/Engineering, ML and NLP.** 
+- 👯 I’m looking to collaborate on **Data/Analytics Engineering, ML and NLP.** 
 
 - 📫Reach me on: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adh101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AtishDhamala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/_a_dh_/)  
