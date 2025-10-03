@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Atish Dhamala!!
-I am a resourceful graduate, passionate about advancing knowledge in Computer Science specializing in Data Science and ML through high-quality research. I want to explore the problems, solving them by applying machine learning algorithms and learning a lot in the process. Extracting valuable insights from large datasets excites me a lot. 
+I am a resourceful graduate, passionate about advancing knowledge in Computer Science, specializing in Data Science and engineering through high-quality research. I want to explore the problems, solving them by applying analytical techniques and learning a lot in the process. Extracting valuable insights from large datasets excites me a lot. 
 
 Skills:  Python / SQL /  R / Machine Learning / Data Engineering / Analytics
 - 🔭 I’m currently doing my **MS in Computer Science - AI** at **The University of South Dakota**.
