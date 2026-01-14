@@ -2,7 +2,7 @@
 I am a resourceful graduate, passionate about advancing knowledge in Computer Science, specializing in Data Science and engineering through high-quality research. I want to explore the problems, solving them by applying analytical techniques and learning a lot in the process. Extracting valuable insights from large datasets excites me a lot. 
 
 Skills:  Python / SQL /  R / Machine Learning / Data Engineering / Analytics
-- 🔭 I’m currently doing my **MS in Computer Science - AI** at **The University of South Dakota**.
+- 🔭 I graduated with **MS in Computer Science - AI** at **The University of South Dakota**.
 - 👯 I’m looking to collaborate on **Data/Analytics Engineering, ML and NLP.** 
 
 - 📫Reach me on: 
